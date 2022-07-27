@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Pnote1979
 - Untuk Install Mikbotam
--chmod +x install-Mikbotam
--/install-Mikbotam
+- chmod +x install-Mikbotam
+- /install-Mikbotam
 
 <!---
 Pnote1979/Pnote1979 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
