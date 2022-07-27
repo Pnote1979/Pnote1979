@@ -1,5 +1,5 @@
 #bin/bash
-pkg install  php7 apache2 mariadb sqlite-y
+pkg install  php7 apache2 mariadb sqlite  -y
 git clone https://github.com/Pnote1979/Mikbotam.git
 cat >start-Mikbotam <<EOL
 #bin/bash
